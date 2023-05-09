@@ -1,7 +1,5 @@
 # Welcome to Apeiros
 
-![Apeiros Logo](/profile/assets/logo.png)
-
 Apeiros is a leading provider of open-source software and systems integration services, dedicated to helping businesses streamline their operations and unlock their full potential. We specialize in automation solutions, systems integration, and consulting services that are tailored to meet the unique needs of each client. Our mission is to create a more efficient and cost-effective business landscape by leveraging the power of open-source technologies.
 
 ## 🚀 Our Services
