@@ -32,3 +32,7 @@ We're always excited to collaborate on new projects, contribute to open-source i
 ## 🌟 Support Our Work
 
 If you find our projects helpful, please consider giving us a ⭐️ on our repositories. Your support helps us continue to create and maintain awesome open-source tools for the community!
+
+## Guiding Principals
+
+- [Open GitOps](https://github.com/open-gitops/documents)
